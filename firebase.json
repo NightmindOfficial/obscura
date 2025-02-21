@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "obscura-om",
+                    "appId": "1:707650577505:android:304b9bf1be0e6c0388b620",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "obscura-om",
+                    "configurations": {
+                        "android": "1:707650577505:android:304b9bf1be0e6c0388b620",
+                        "ios": "1:707650577505:ios:aea580245e8758a588b620"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -7,9 +7,18 @@ environment:
   sdk: ^3.7.0
 
 dependencies:
+  cached_network_image: ^3.4.1
+  cloud_firestore: ^5.6.4
+  firebase_auth: ^5.5.0
+  firebase_core: ^3.12.0
+  firebase_storage: ^12.4.3
   flutter:
     sdk: flutter
-  riverpod: ^2.6.1
+  flutter_riverpod: ^2.6.1
+  fraction: ^5.0.4
+  google_sign_in: ^6.2.2
+  image_picker: ^1.1.2
+  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:
